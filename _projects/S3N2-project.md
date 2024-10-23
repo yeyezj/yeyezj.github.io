@@ -1,5 +1,5 @@
 ---
-title: 理论预测新型二维材料 De novo discovery of novel 2D materials 
+title: traveling:in currently,I have already traveled eight country.Taveling let me more broaded and give me more motivation to do thing 
 
 notitle: false
 
@@ -12,7 +12,7 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/2d.png
+image: /img/projects/travek.jpg
 last-updated: 2020-01-22
 ---
 
