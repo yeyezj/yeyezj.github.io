@@ -1,6 +1,5 @@
 ---
-title: MatterGPT:a GPT2-based large language model for multi-property inverse design of crystal structures.
-
+title: snorkeling：I went to several point for snorking,like one wonderful place for diving enthusiast:Fiji🇫🇯,even the best sea island in Tailand,and the penida in Indonesia and so on. in my snorkeling's period, i saw some marine animals like sharks and mantas.
 notitle: false
 
 description: |
@@ -11,7 +10,7 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/MatterGPT.jpg
+image: /img/projects/MatterG.jpg
 last-updated: 2024-08-08
 link: https://arxiv.org/abs/2408.07608
 ---
