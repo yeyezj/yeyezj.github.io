@@ -1,5 +1,5 @@
 ---
-title: SLICES:一种可逆晶体表示法及在人工智能驱动的晶体逆向设计中的应用 An invertible, invariant crystallographic representation for inverse design of solid-state materials using generative deep learning
+title: collect: I like collecting Disney bears Winnie-the-Pooh very much. They are the cutest bears in the world！
 
 notitle: false
 
