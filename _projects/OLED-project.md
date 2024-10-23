@@ -1,5 +1,5 @@
 ---
-title: 新型OLED材料的高通量量子化学预测与筛选 Discovery of new organic light-emitting diode (OLED) materials with high-throughput screening
+title: Taveling: In currently,I have already traveled eight country.Taveling let me more broaded and give me more motivation to do thing.
 
 notitle: false
 
@@ -10,8 +10,8 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/oled.png
-last-updated: 2020-01-26
+image: /img/projects/travek.jpg
+last-updated: 2024-10-23
 ---
 
 ## 简介 Introduction
