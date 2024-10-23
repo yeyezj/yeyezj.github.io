@@ -12,7 +12,7 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/slices.png
+image: /img/projects/weini.jpg
 last-updated: 2023-06-08
 link: https://www.nature.com/articles/s41467-023-42870-7
 ---
