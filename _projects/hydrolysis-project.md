@@ -1,5 +1,5 @@
 ---
-title: 反常水解反应 Abnormal hydrolysis of ions
+title: collect: I like collecting Disney bears Winnie-the-Pooh very much. They are the cutest bears in the world.
 
 notitle: false
 
@@ -15,7 +15,7 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/hydrolysis.png
+image: /img/projects/weini.jpg
 last-updated: 2020-01-23
 ---
 
